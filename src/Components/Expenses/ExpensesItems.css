@@ -1,0 +1,51 @@
+.expense-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid gray;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: aliceblue;
+}
+
+.expense__left {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.date {
+  margin-right: 20px;
+}
+
+.expense__right {
+  border: 1px solid #b5b1b1;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: black;
+  color: white;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.date__div {
+  border: 1px solid #c5c1c1;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background: #000;
+  width: 80px;
+}
+
+.date__div div {
+  color: aliceblue;
+  font-weight: 500;
+  margin-top: 2px;
+}
