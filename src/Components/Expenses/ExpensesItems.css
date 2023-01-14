@@ -45,6 +45,7 @@
 }
 
 .date__div div {
+  padding: 2px;
   color: aliceblue;
   font-weight: 500;
   margin-top: 2px;
