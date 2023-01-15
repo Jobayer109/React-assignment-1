@@ -14,7 +14,7 @@
   font: inherit;
   cursor: pointer;
   padding: 1rem 2rem;
-  border: 1px solid #7df812;
+  border: 1px solid hwb(0 98% 2%);
   background-color: black;
   color: white;
   border-radius: 12px;
