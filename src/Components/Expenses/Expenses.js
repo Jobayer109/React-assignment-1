@@ -25,9 +25,6 @@ const Expenses = () => {
   ];
   return (
     <div>
-      <div>
-        <h1>List of Monthly Expenses</h1>
-      </div>
       <ExpensesItems
         title={expenses[0].title}
         amount={expenses[0].amount}
